@@ -38,10 +38,15 @@ override func viewDidLoad() {
 ```
 
 #### In interface builder
-Set up                          Customize
+Set up
 
 <p>
   <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/setup.gif" height="438" width="250" />
+</p>
+
+Customize
+
+<p>
   <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" height="438" width="250" />
 </p>
 
