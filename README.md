@@ -1,5 +1,5 @@
 # WWElasticTextField
-UITextField with elastic bounce effect.
+UITextField with elastic bounce effect on touch.
 
 <p>
   <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/elastic.gif" height="438" width="250" />
