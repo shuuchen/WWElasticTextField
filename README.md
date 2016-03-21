@@ -34,18 +34,14 @@ override func viewDidLoad() {
   // customization
   elasticTextField.overshootAmount = 30.0
   // ...
+}
 ```
 
 #### In interface builder
-Set up
+Set up                          Customize
 
 <p>
   <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/setup.gif" height="438" width="250" />
-</p>
-
-Customize
-
-<p>
   <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" height="438" width="250" />
 </p>
 
