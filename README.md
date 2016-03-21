@@ -27,13 +27,23 @@ Simply replace UITextField with WWElasticTextField in source code or interface b
 
 #### In source code
 ```swift
-var elasticTextField = WWElasticTextField()
+import WWElasticTextField
+
 override func viewDidLoad() {
   super.viewDidLoad()
-
-  // customization
-  elasticTextField.overshootAmount = 30.0
-  // ...
+...
+  // initialize
+  let elasticTextField = WWElasticTextField(frame: CGRectMake(0, 0, 97, 30))
+        
+  // set position
+  elasticTextField.center = view.center
+        
+  // customize
+  elasticTextField.overshootAmount = 30
+        
+  // add to super view
+  view.addSubview(elasticTextField)
+...
 }
 ```
 
