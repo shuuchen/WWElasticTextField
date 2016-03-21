@@ -33,6 +33,7 @@ override func viewDidLoad() {
   super.viewDidLoad()
 
   /* ... */
+
   /* initialize */
   let elasticTextField = WWElasticTextField(frame: CGRectMake(0, 0, 97, 30))
         
@@ -44,6 +45,7 @@ override func viewDidLoad() {
         
   /* add to super view */
   view.addSubview(elasticTextField)
+
   /* ... */
 }
 ```
