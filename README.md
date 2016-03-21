@@ -49,15 +49,17 @@ override func viewDidLoad() {
 
 #### In interface builder
 ##### Set up
+Drag a new UITextView from object library and set its custom class to be WWElasticTextField.
 
 <p>
-  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/setup.gif" height="438" width="250" />
+  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/setup.gif" />
 </p>
 
 ##### Customize
+Play with the value of overshootAmount and see how the elastic extent changes.
 
 <p>
-  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" height="438" width="250" />
+  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" />
 </p>
 
 ## Tutorial
