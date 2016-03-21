@@ -19,6 +19,7 @@ UITextField with elastic bounce effect.
 ```ruby
 use_frameworks!
 pod "WWElasticTextField"
+```
 
 ## Usage
 
