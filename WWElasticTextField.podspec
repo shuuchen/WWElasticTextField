@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "WWElasticTextField"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "UITextField with elastic bounce effect."
   s.description  = <<-DESC
                    UITextField with elastic bounce effect.
@@ -9,7 +9,6 @@ Pod::Spec.new do |s|
 			https://www.raywenderlich.com/100939/how-to-create-an-elastic-animation-with-swift
                    DESC
   s.homepage     = "https://github.com/shuuchen/WWElasticTextField"
-  s.screenshots  = "https://github.com/shuuchen/WWElasticTextField/blob/master/elastic.gif"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "shuchen" => "dushuchen97@gmail.com" }
   s.social_media_url   = "http://twitter.com/shuchen"

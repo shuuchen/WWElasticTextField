@@ -12,7 +12,7 @@ public class WWElasticTextField: UITextField {
 
     var elasticView: WWElasticView!
     
-    @IBInspectable var overshootAmount: CGFloat = 10.0 {
+    @IBInspectable public var overshootAmount: CGFloat = 10.0 {
         
         didSet {
             
