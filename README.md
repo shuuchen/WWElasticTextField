@@ -32,16 +32,16 @@ import WWElasticTextField
 override func viewDidLoad() {
   super.viewDidLoad()
 ...
-  // initialize
+  /* initialize */
   let elasticTextField = WWElasticTextField(frame: CGRectMake(0, 0, 97, 30))
         
-  // set position
+  /* set position */
   elasticTextField.center = view.center
         
-  // customize
+  /* customize */
   elasticTextField.overshootAmount = 30
         
-  // add to super view
+  /* add to super view */
   view.addSubview(elasticTextField)
 ...
 }
@@ -52,14 +52,14 @@ override func viewDidLoad() {
 Drag a new UITextView from object library and set its custom class to be WWElasticTextField.
 
 <p>
-  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/setup.gif" />
+  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/setup.gif" width="30%" />
 </p>
 
 ##### Customize
-Play with the value of overshootAmount and see how the elastic extent changes.
+Play with the value of overshootAmount and see how the elastic extent changes accordingly.
 
 <p>
-  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" />
+  <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" width="30%" />
 </p>
 
 ## Tutorial
