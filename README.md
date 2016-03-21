@@ -59,7 +59,7 @@ Drag a new UITextView from object library and set its custom class to be WWElast
 </p>
 
 ##### Customize
-Play with the value of overshootAmount and see how the elastic extent changes accordingly.
+Play with the value of overshootAmount (positive or negative) and see how the elastic extent changes accordingly.
 
 <p>
   <img src="https://github.com/shuuchen/WWElasticTextField/blob/master/customize.gif" width="30%" />
